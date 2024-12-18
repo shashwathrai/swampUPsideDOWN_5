@@ -1,4 +1,4 @@
-name: New Pull Request Alert
+name: New Pull Request Alert!
 
 on:
   pull_request_target:
